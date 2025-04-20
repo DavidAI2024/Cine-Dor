@@ -1,78 +1,69 @@
-🎬 CineDor Bot V3
+# 🎬 [CineDor](https://t.me/cinedor_bot) Bot V3
 
-
-
-
+[![Telegram](https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram)](https://t.me/cinedor_bot)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 
 ---
 
-> CineDor brings the magic of cinema and TV directly into your Telegram chats. Discover, explore and share your favorite movies and series with just a tap! ✨
+> **[CineDor](https://t.me/cinedor_bot)** brings the magic of cinema and TV directly into your Telegram chats.  
+> Discover, explore and share your favorite movies and series with just a tap! ✨
 
+---
 
-
-🚀 Quick Start
+## 🚀 Quick Start
 
 1. Open Telegram
+2. Search for **[@CineDor_bot](https://t.me/cinedor_bot)**
+3. Click `/start` to launch the experience
 
-
-2. Search for @CineDor_bot
-
-
-3. Send /start and dive in!
-
-
-
+No installation, no configuration. Just start chatting and discovering!
 
 ---
 
-🌟 Features
+## 🌟 Features
 
-🔍 Instant Search: Find any movie or TV show in seconds.
-
-📊 Trending Now: Stay up-to-date with the hottest titles.
-
-🗂️ Browse by Genre: Action, Comedy, Drama, Fantasy, Horror, and more.
-
-📝 Quick Info: Get synopsis, ratings, cast and release date.
-
-❓ Help & Info: Built-in support commands to guide you.
-
-👥 Live User Count: See how many CineDor fans are online!
-
-
+- 🔍 **Smart Search** — Find any movie or show instantly  
+- 📊 **Trending Now** — Stay up-to-date with the most popular titles  
+- 🎬 **Genre Browser** — Explore by genres like Action, Comedy, Fantasy, and more  
+- ℹ️ **Details at a Glance** — View synopsis, cast, rating, and release info  
+- ❓ **Built-in Help** — Get answers and guidance any time  
+- 👥 **Live User Count** — See how many users are online in real time  
 
 ---
 
-💬 Commands Overview
+## 💬 Bot Commands
 
-
----
-
-🎨 Preview
-
-
-
-Smooth animations, intuitive menus, and lightning-fast responses.
-
+| Command              | Description                                  |
+|----------------------|----------------------------------------------|
+| `/start`             | Launch the bot and open the main menu        |
+| `/search <title>`    | Search for a movie or TV show                |
+| `/trending`          | Get a list of currently trending titles      |
+| `/genres`            | Browse content by genre                      |
+| `/help`              | Get help and support                         |
 
 ---
 
-❤️ Community & Support
+## 🎨 Preview
 
-Join our Telegram channel to get news, updates, and share your feedback:
+![CineDor Preview](./assets/preview.gif)
 
-@CineDorChannel
-
-Contribute or report issues on GitHub.
-
+*Clean interface, animated menus, lightning-fast replies.*
 
 ---
 
-📜 License
+## ❤️ Community & Updates
 
-This project is licensed under the MIT License. See LICENSE for details.
-
+Stay updated and share feedback in our official channel:  
+**[@CineDorOfficial](https://t.me/NetworkArchivio)**
 
 ---
 
-> Made with ❤️ by @hackerandolo
+## 📜 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for details.
+
+---
+
+> Made with ❤️ by [@hackerandolo](https://github.com/hackerandolo)
+
+_Cinema alla portata di un tap!_
